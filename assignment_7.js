@@ -1,2 +1,1 @@
-var names_array1 = ["bob","jimmy","max b","future hendrix"];
-var names_array2 = ["max b","bernie","jordan"];
+var names_array = ["bob","jimmy","max b", "bernie", "jordan", "future hendrix"]
